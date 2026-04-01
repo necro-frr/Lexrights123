@@ -1,0 +1,454 @@
+{
+  "laws": [
+    {
+      "id": 1,
+      "title": "Right to Equality",
+      "reference": "Article 14, Constitution of India",
+      "category": "constitutional",
+      "keywords": ["equality", "discrimination", "equal treatment", "unfair", "bias", "gender", "caste", "religion", "arbitrary"],
+      "description": "The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.",
+      "applies_to": "Any discriminatory treatment by employer or state authority"
+    },
+    {
+      "id": 2,
+      "title": "Protection Against Discrimination in Employment",
+      "reference": "Article 15, Constitution of India",
+      "category": "constitutional",
+      "keywords": ["discrimination", "religion", "race", "caste", "sex", "gender", "place of birth", "hiring", "promotion", "fired"],
+      "description": "Prohibits discrimination on grounds of religion, race, caste, sex or place of birth.",
+      "applies_to": "Discriminatory hiring, firing, or promotion practices"
+    },
+    {
+      "id": 3,
+      "title": "Right to Equal Opportunity in Public Employment",
+      "reference": "Article 16, Constitution of India",
+      "category": "constitutional",
+      "keywords": ["public employment", "government job", "equal opportunity", "promotion", "appointment", "discrimination"],
+      "description": "Guarantees equal opportunity in matters of public employment.",
+      "applies_to": "Government employment and public sector jobs"
+    },
+    {
+      "id": 4,
+      "title": "Right to Freedom of Speech",
+      "reference": "Article 19(1)(a), Constitution of India",
+      "category": "constitutional",
+      "keywords": ["speech", "expression", "speak", "opinion", "whistle", "whistleblower", "report", "complaint", "voice"],
+      "description": "Every citizen has the right to freedom of speech and expression.",
+      "applies_to": "Employees speaking out about workplace issues or misconduct"
+    },
+    {
+      "id": 5,
+      "title": "Right to Practice Any Profession",
+      "reference": "Article 19(1)(g), Constitution of India",
+      "category": "constitutional",
+      "keywords": ["profession", "trade", "business", "occupation", "work", "job", "career", "fired", "terminated", "banned"],
+      "description": "Every citizen has the right to practice any profession or carry on any occupation, trade or business.",
+      "applies_to": "Unlawful termination or restriction on professional practice"
+    },
+    {
+      "id": 6,
+      "title": "Right to Life and Personal Liberty",
+      "reference": "Article 21, Constitution of India",
+      "category": "constitutional",
+      "keywords": ["life", "liberty", "dignity", "privacy", "harassment", "mental health", "stress", "torture", "forced", "unsafe"],
+      "description": "No person shall be deprived of his life or personal liberty except according to procedure established by law.",
+      "applies_to": "Workplace harassment, unsafe conditions, or violation of personal dignity"
+    },
+    {
+      "id": 7,
+      "title": "Right Against Exploitation",
+      "reference": "Article 23, Constitution of India",
+      "category": "constitutional",
+      "keywords": ["forced labor", "bonded labor", "trafficking", "exploitation", "unpaid", "slavery", "coercion", "forced work"],
+      "description": "Prohibits traffic in human beings and forced labour.",
+      "applies_to": "Forced work without pay or bonded labour situations"
+    },
+    {
+      "id": 8,
+      "title": "Right to Constitutional Remedies",
+      "reference": "Article 32, Constitution of India",
+      "category": "constitutional",
+      "keywords": ["court", "supreme court", "remedy", "petition", "fundamental rights", "violation", "enforcement"],
+      "description": "Right to move the Supreme Court for enforcement of fundamental rights.",
+      "applies_to": "When fundamental rights are violated and legal remedy is needed"
+    },
+    {
+      "id": 9,
+      "title": "Protection of Data and Privacy",
+      "reference": "IT Act 2000, Section 43A",
+      "category": "statute",
+      "keywords": ["data", "privacy", "personal information", "email", "monitoring", "surveillance", "hacking", "leak", "breach", "confidential data"],
+      "description": "Companies must implement reasonable security practices to protect sensitive personal data.",
+      "applies_to": "Data breaches, unauthorized access to personal information, email monitoring"
+    },
+    {
+      "id": 10,
+      "title": "Unauthorized Access to Computer Systems",
+      "reference": "IT Act 2000, Section 43",
+      "category": "statute",
+      "keywords": ["hacking", "unauthorized access", "computer", "system", "network", "data theft", "email hack", "account breach"],
+      "description": "Prohibits unauthorized access to computer systems and networks.",
+      "applies_to": "Hacking, unauthorized email access, system intrusion"
+    },
+    {
+      "id": 11,
+      "title": "Cyber Crime and Data Theft",
+      "reference": "IT Act 2000, Section 66",
+      "category": "statute",
+      "keywords": ["cyber crime", "hacking", "data theft", "computer fraud", "identity theft", "online fraud", "digital crime"],
+      "description": "Punishes dishonest or fraudulent acts using computer resources.",
+      "applies_to": "Cyber fraud, data theft, computer crimes against a company"
+    },
+    {
+      "id": 12,
+      "title": "Protection of Trade Secrets",
+      "reference": "Indian Contract Act 1872, Section 27",
+      "category": "statute",
+      "keywords": ["trade secret", "confidential", "NDA", "non disclosure", "secret", "proprietary", "leaked", "shared", "competitor", "stolen"],
+      "description": "Agreements to protect trade secrets and confidential business information are enforceable.",
+      "applies_to": "Breach of NDA, sharing trade secrets with competitors"
+    },
+    {
+      "id": 13,
+      "title": "Breach of Contract",
+      "reference": "Indian Contract Act 1872, Section 73",
+      "category": "statute",
+      "keywords": ["breach", "contract", "agreement", "violation", "terms", "promise", "failed", "not fulfilled", "defaulted"],
+      "description": "Party who suffers due to breach of contract is entitled to compensation.",
+      "applies_to": "When a business partner or employee violates a contract"
+    },
+    {
+      "id": 14,
+      "title": "Sexual Harassment at Workplace",
+      "reference": "POSH Act 2013",
+      "category": "statute",
+      "keywords": ["sexual harassment", "harassment", "inappropriate", "molest", "touch", "uncomfortable", "hostile", "workplace harassment", "me too"],
+      "description": "Provides protection against sexual harassment at workplace and redressal mechanism.",
+      "applies_to": "Any form of sexual harassment at the workplace"
+    },
+    {
+      "id": 15,
+      "title": "Unfair Labour Practices",
+      "reference": "Industrial Disputes Act 1947, Section 25",
+      "category": "statute",
+      "keywords": ["unfair", "labour", "worker", "employee rights", "strike", "lockout", "retrenchment", "layoff", "union", "dismissal"],
+      "description": "Prohibits unfair labour practices by employers against workers.",
+      "applies_to": "Unfair dismissal, layoffs without proper procedure, union busting"
+    },
+    {
+      "id": 16,
+      "title": "Wrongful Termination",
+      "reference": "Industrial Disputes Act 1947, Section 25F",
+      "category": "statute",
+      "keywords": ["termination", "fired", "dismissed", "sacked", "removed", "without notice", "wrongful", "illegal termination", "layoff"],
+      "description": "Mandates proper notice and compensation before terminating an employee.",
+      "applies_to": "Employees fired without proper notice or compensation"
+    },
+    {
+      "id": 17,
+      "title": "Minimum Wages",
+      "reference": "Minimum Wages Act 1948",
+      "category": "statute",
+      "keywords": ["salary", "wages", "pay", "underpaid", "minimum wage", "payment", "compensation", "unpaid", "salary not paid"],
+      "description": "Employers must pay employees at least the minimum wage fixed by the government.",
+      "applies_to": "Underpayment of wages or salary disputes"
+    },
+    {
+      "id": 18,
+      "title": "Non-Payment of Wages",
+      "reference": "Payment of Wages Act 1936",
+      "category": "statute",
+      "keywords": ["salary not paid", "wages delayed", "payment delayed", "unpaid salary", "salary withheld", "dues", "pending salary"],
+      "description": "Ensures timely payment of wages to employees without unauthorized deductions.",
+      "applies_to": "Delayed or withheld salary payments"
+    },
+    {
+      "id": 19,
+      "title": "Gratuity Rights",
+      "reference": "Payment of Gratuity Act 1972",
+      "category": "statute",
+      "keywords": ["gratuity", "retirement", "resignation", "long service", "5 years", "severance", "end of service"],
+      "description": "Employees who have completed 5 years of service are entitled to gratuity payment.",
+      "applies_to": "Denial of gratuity after completing 5 or more years of service"
+    },
+    {
+      "id": 20,
+      "title": "Provident Fund Rights",
+      "reference": "Employees Provident Fund Act 1952",
+      "category": "statute",
+      "keywords": ["PF", "provident fund", "EPF", "retirement fund", "deduction", "contribution", "savings", "pension"],
+      "description": "Mandates employer contribution to employee provident fund for retirement savings.",
+      "applies_to": "Non-payment or misuse of provident fund contributions"
+    },
+    {
+      "id": 21,
+      "title": "Right Against Search Without Warrant",
+      "reference": "CrPC Section 165, Constitution Article 21",
+      "category": "constitutional",
+      "keywords": ["raid", "search", "warrant", "police", "without notice", "seizure", "office raid", "searched", "inspection"],
+      "description": "Police must have proper warrant before conducting search and seizure operations.",
+      "applies_to": "Unauthorized raids on company premises without proper warrant"
+    },
+    {
+      "id": 22,
+      "title": "Right to Know Reason for Arrest",
+      "reference": "Article 22, Constitution of India",
+      "category": "constitutional",
+      "keywords": ["arrest", "detained", "custody", "police", "reason", "charges", "informed", "lawyer", "legal aid"],
+      "description": "Every arrested person has the right to know the grounds of arrest and consult a lawyer.",
+      "applies_to": "Unlawful detention of employees or company officials"
+    },
+    {
+      "id": 23,
+      "title": "Companies Act - Director Duties",
+      "reference": "Companies Act 2013, Section 166",
+      "category": "statute",
+      "keywords": ["director", "board", "duty", "fiduciary", "conflict of interest", "company", "shareholder", "governance", "corporate"],
+      "description": "Directors must act in good faith and in the best interest of the company.",
+      "applies_to": "Director misconduct, conflict of interest, breach of fiduciary duty"
+    },
+    {
+      "id": 24,
+      "title": "Shareholder Rights",
+      "reference": "Companies Act 2013, Section 49",
+      "category": "statute",
+      "keywords": ["shareholder", "shares", "dividend", "voting", "AGM", "annual meeting", "investor", "equity", "ownership"],
+      "description": "Protects rights of shareholders including voting rights and dividend entitlement.",
+      "applies_to": "Denial of shareholder rights, dividend disputes, voting issues"
+    },
+    {
+      "id": 25,
+      "title": "Intellectual Property Protection",
+      "reference": "Patents Act 1970, Copyright Act 1957",
+      "category": "statute",
+      "keywords": ["patent", "copyright", "intellectual property", "IP", "invention", "design", "trademark", "stolen idea", "copied", "plagiarism"],
+      "description": "Protects inventions, creative works, and intellectual property from unauthorized use.",
+      "applies_to": "Theft of inventions, copyright infringement, patent violations"
+    },
+    {
+      "id": 26,
+      "title": "Maternity Benefits",
+      "reference": "Maternity Benefit Act 1961",
+      "category": "statute",
+      "keywords": ["maternity", "pregnancy", "maternity leave", "mother", "baby", "childbirth", "leave denied", "pregnant fired"],
+      "description": "Provides maternity leave and benefits to female employees during pregnancy.",
+      "applies_to": "Denial of maternity leave or firing a pregnant employee"
+    },
+    {
+      "id": 27,
+      "title": "Workplace Safety",
+      "reference": "Factories Act 1948",
+      "category": "statute",
+      "keywords": ["safety", "unsafe", "accident", "injury", "hazard", "dangerous", "workplace safety", "factory", "health", "occupational"],
+      "description": "Mandates safe working conditions and health standards in workplaces.",
+      "applies_to": "Unsafe working conditions, workplace accidents, health hazards"
+    },
+    {
+      "id": 28,
+      "title": "Right to Information",
+      "reference": "RTI Act 2005",
+      "category": "statute",
+      "keywords": ["RTI", "information", "government", "transparency", "public records", "documents", "disclosure", "right to know"],
+      "description": "Citizens can request information from government bodies and public authorities.",
+      "applies_to": "Seeking information from government departments or public sector companies"
+    },
+    {
+      "id": 29,
+      "title": "Prevention of Money Laundering",
+      "reference": "PMLA Act 2002",
+      "category": "statute",
+      "keywords": ["money laundering", "black money", "financial fraud", "illegal money", "corruption", "bribery", "kickback", "shell company"],
+      "description": "Prohibits money laundering and requires financial institutions to report suspicious transactions.",
+      "applies_to": "Financial fraud, money laundering, corrupt practices"
+    },
+    {
+      "id": 30,
+      "title": "Competition Law",
+      "reference": "Competition Act 2002",
+      "category": "statute",
+      "keywords": ["monopoly", "cartel", "price fixing", "unfair competition", "anti competitive", "market dominance", "predatory pricing"],
+      "description": "Prohibits anti-competitive practices and abuse of dominant market position.",
+      "applies_to": "Monopolistic practices, price fixing, unfair competition"
+    },
+    {
+      "id": 31,
+      "title": "Consumer Protection",
+      "reference": "Consumer Protection Act 2019",
+      "category": "statute",
+      "keywords": ["consumer", "product defect", "service deficiency", "fraud", "misleading", "false advertising", "refund", "complaint"],
+      "description": "Protects consumers against unfair trade practices and defective products.",
+      "applies_to": "Defective products, false advertising, service deficiencies"
+    },
+    {
+      "id": 32,
+      "title": "GST Compliance",
+      "reference": "GST Act 2017",
+      "category": "statute",
+      "keywords": ["GST", "tax", "tax evasion", "invoice", "billing", "indirect tax", "goods and services tax"],
+      "description": "Mandates proper GST compliance including invoicing and tax payment.",
+      "applies_to": "GST fraud, tax evasion, invoicing disputes"
+    },
+    {
+      "id": 33,
+      "title": "Income Tax",
+      "reference": "Income Tax Act 1961",
+      "category": "statute",
+      "keywords": ["income tax", "TDS", "tax deduction", "ITR", "tax evasion", "black money", "income", "salary tax"],
+      "description": "Governs taxation of income and mandates proper tax deduction at source.",
+      "applies_to": "Tax evasion, TDS disputes, income tax violations"
+    },
+    {
+      "id": 34,
+      "title": "Insolvency and Bankruptcy",
+      "reference": "Insolvency and Bankruptcy Code 2016",
+      "category": "statute",
+      "keywords": ["bankruptcy", "insolvency", "debt", "creditor", "liquidation", "NPA", "loan default", "winding up", "company closed"],
+      "description": "Provides resolution framework for insolvency of companies and individuals.",
+      "applies_to": "Company bankruptcy, debt recovery, creditor rights"
+    },
+    {
+      "id": 35,
+      "title": "Arbitration and Dispute Resolution",
+      "reference": "Arbitration and Conciliation Act 1996",
+      "category": "statute",
+      "keywords": ["arbitration", "dispute", "mediation", "settlement", "out of court", "ADR", "resolution", "commercial dispute"],
+      "description": "Provides mechanism for resolving commercial disputes through arbitration.",
+      "applies_to": "Business disputes, contract disagreements, commercial conflicts"
+    },
+    {
+      "id": 36,
+      "title": "Environmental Compliance",
+      "reference": "Environment Protection Act 1986",
+      "category": "statute",
+      "keywords": ["pollution", "environment", "waste", "chemical", "emission", "environmental damage", "contamination", "green"],
+      "description": "Mandates environmental protection standards for industries and businesses.",
+      "applies_to": "Environmental violations, pollution, improper waste disposal"
+    },
+    {
+      "id": 37,
+      "title": "Foreign Exchange Management",
+      "reference": "FEMA Act 1999",
+      "category": "statute",
+      "keywords": ["foreign exchange", "forex", "FEMA", "foreign investment", "FDI", "remittance", "international payment", "currency"],
+      "description": "Regulates foreign exchange transactions and cross-border payments.",
+      "applies_to": "Foreign investment disputes, forex violations, international payments"
+    },
+    {
+      "id": 38,
+      "title": "Prevention of Corruption",
+      "reference": "Prevention of Corruption Act 1988",
+      "category": "statute",
+      "keywords": ["corruption", "bribe", "bribery", "government official", "kickback", "gratification", "public servant", "corrupt"],
+      "description": "Prohibits bribery and corruption involving public servants.",
+      "applies_to": "Bribery of government officials, corrupt practices"
+    },
+    {
+      "id": 39,
+      "title": "Whistleblower Protection",
+      "reference": "Whistle Blowers Protection Act 2014",
+      "category": "statute",
+      "keywords": ["whistleblower", "report", "expose", "corruption", "fraud", "retaliation", "victimization", "reporting misconduct"],
+      "description": "Protects persons who expose corruption or wrongdoing from retaliation.",
+      "applies_to": "Employees facing retaliation for reporting misconduct or corruption"
+    },
+    {
+      "id": 40,
+      "title": "Right to Fair Investigation",
+      "reference": "CrPC Section 154-176",
+      "category": "statute",
+      "keywords": ["FIR", "police complaint", "investigation", "report crime", "complaint", "case filed", "police station"],
+      "description": "Police are legally bound to register FIR and investigate cognizable offences.",
+      "applies_to": "Filing police complaints, FIR registration, criminal investigation"
+    },
+    {
+      "id": 41,
+      "title": "Defamation Law",
+      "reference": "IPC Section 499-500",
+      "category": "statute",
+      "keywords": ["defamation", "reputation", "false statement", "slander", "libel", "false accusation", "character assassination", "fake news"],
+      "description": "Protects individuals and companies from false and damaging statements.",
+      "applies_to": "False accusations, reputation damage, defamatory statements"
+    },
+    {
+      "id": 42,
+      "title": "Cheating and Fraud",
+      "reference": "IPC Section 420",
+      "category": "statute",
+      "keywords": ["fraud", "cheating", "deceive", "misrepresentation", "false promise", "scam", "con", "duped", "cheat"],
+      "description": "Punishes dishonest deception that causes harm to another person.",
+      "applies_to": "Business fraud, financial cheating, misrepresentation in contracts"
+    },
+    {
+      "id": 43,
+      "title": "Criminal Breach of Trust",
+      "reference": "IPC Section 406",
+      "category": "statute",
+      "keywords": ["breach of trust", "misappropriation", "embezzlement", "funds misused", "money stolen", "entrusted property", "misuse of funds"],
+      "description": "Punishes misappropriation of property entrusted to a person.",
+      "applies_to": "Embezzlement, misuse of company funds, breach of fiduciary duty"
+    },
+    {
+      "id": 44,
+      "title": "Extortion",
+      "reference": "IPC Section 383",
+      "category": "statute",
+      "keywords": ["extortion", "blackmail", "threat", "coercion", "forced", "ransom", "demand money", "intimidate"],
+      "description": "Punishes anyone who puts another in fear to dishonestly induce delivery of property.",
+      "applies_to": "Blackmail, threats, coercion to extract money or favors"
+    },
+    {
+      "id": 45,
+      "title": "Forgery",
+      "reference": "IPC Section 463-465",
+      "category": "statute",
+      "keywords": ["forgery", "fake document", "forged signature", "counterfeit", "fake", "fabricated", "false document", "tampered"],
+      "description": "Punishes making false documents or tampering with genuine documents.",
+      "applies_to": "Forged contracts, fake signatures, tampered documents"
+    },
+    {
+      "id": 46,
+      "title": "Employees State Insurance",
+      "reference": "ESI Act 1948",
+      "category": "statute",
+      "keywords": ["ESI", "insurance", "medical", "health insurance", "employee insurance", "ESIC", "sickness benefit", "medical benefit"],
+      "description": "Mandates health insurance coverage for employees earning below a threshold.",
+      "applies_to": "Denial of ESI benefits, non-payment of ESI contributions"
+    },
+    {
+      "id": 47,
+      "title": "Equal Remuneration",
+      "reference": "Equal Remuneration Act 1976",
+      "category": "statute",
+      "keywords": ["equal pay", "gender pay gap", "women pay", "salary discrimination", "pay disparity", "same work different pay"],
+      "description": "Mandates equal pay for equal work regardless of gender.",
+      "applies_to": "Gender-based salary discrimination, pay disparity between men and women"
+    },
+    {
+      "id": 48,
+      "title": "Contract Labour Regulation",
+      "reference": "Contract Labour Act 1970",
+      "category": "statute",
+      "keywords": ["contract worker", "contractor", "outsourced", "third party", "temporary worker", "labour contractor"],
+      "description": "Regulates employment of contract labour and protects their rights.",
+      "applies_to": "Rights of contract workers, contractor disputes, outsourced employees"
+    },
+    {
+      "id": 49,
+      "title": "Trademark Protection",
+      "reference": "Trade Marks Act 1999",
+      "category": "statute",
+      "keywords": ["trademark", "brand", "logo", "name", "brand name", "copied brand", "counterfeit", "passing off", "brand theft"],
+      "description": "Protects registered trademarks and brand names from unauthorized use.",
+      "applies_to": "Brand name copying, trademark infringement, counterfeit products"
+    },
+    {
+      "id": 50,
+      "title": "Digital Signature and Electronic Records",
+      "reference": "IT Act 2000, Section 3-5",
+      "category": "statute",
+      "keywords": ["digital signature", "electronic signature", "e-sign", "online contract", "digital contract", "electronic record"],
+      "description": "Gives legal validity to digital signatures and electronic records.",
+      "applies_to": "Disputes over digital contracts, electronic signatures, online agreements"
+    }
+  ]
+}
