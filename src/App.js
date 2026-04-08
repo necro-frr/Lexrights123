@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import lawsData from "./laws.json";
 
-const apiKey = process.env.REACT_APP_GROQ_API_KEY;
+const GROQ_KEY = process.env.REACT_APP_GROQ_API_KEY;
 
 function extractKeywords(text) {
   const stopWords = new Set([
@@ -108,7 +108,7 @@ export default function App() {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          "Authorization": `Bearer ${GROQ_KEY}`
+          "Authorization": `Bearer ${process.env.REACT_APP_GROQ_KEY}`
         },
         body: JSON.stringify({
           model: "llama-3.3-70b-versatile",
