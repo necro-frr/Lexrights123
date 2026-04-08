@@ -3,6 +3,14 @@ import lawsData from "./laws.json";
 
 const GROQ_KEY = process.env.REACT_APP_GROQ_API_KEY;
 
+fetch("https://your-api-endpoint.com/data", {
+  headers: {
+    Authorization: `Bearer ${GROQ_KEY}`,
+  },
+})
+  .then(res => res.json())
+  .then(data => console.log(data));
+
 function extractKeywords(text) {
   const stopWords = new Set([
     "a","an","the","is","it","in","on","at","to","for","of","and","or","but",
